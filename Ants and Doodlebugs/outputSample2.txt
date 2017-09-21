@@ -1,0 +1,78 @@
+Step 0:
+     o              
+   o     o   o   o  
+           o        
+           o   o    
+             o      
+                 o  
+     o     o   o    
+               x    
+       x            
+   x o             o
+---------------------
+Step 1:
+   o         o      
+     o o       o    
+           o o      
+             o      
+           o        
+           o   o    
+               x    
+     o              
+         x          
+     x           o  
+---------------------
+Step 2:
+     o         o    
+   o o       o      
+             o o    
+           o        
+             o      
+             o x    
+                    
+         x          
+     o           o  
+   x                
+---------------------
+Step 3:
+     o o     o o    
+     o o     o o    
+ o o         o o    
+         o o o o    
+         o     o    
+             x      
+                    
+                    
+   o                
+ x o             o o
+---------------------
+Step 4:
+       o   o o      
+ o o   o         o  
+     o o o   o   o  
+         o   o      
+           o o o    
+               o    
+             x      
+   o                
+                   o
+   x           o    
+---------------------
+Step 5:
+ o o o         o o  
+     o     o        
+   o o   o o   o    
+           o     o  
+             o      
+             o o o  
+               x    
+     o              
+               o    
+     x             o
+---------------------
+/home/geseiche/Project6/PA6 10 3 15 5 1 1 
+Steps simulated: 6
+Total ants with births: 26
+Total doodlebugs with births: 3
+Terminating ants: 21
+Terminating doodlebugs: 2
